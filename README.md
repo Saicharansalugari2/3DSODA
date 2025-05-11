@@ -3,6 +3,7 @@
 Hey, I built an immersive 3D web experience showcasing animated soda cans using Next.js 14, GSAP, Three.js, and Prismic as a headless CMS. Built for performance,
 interactivity, and storytelling through motion.
 
+Check out website [here](https://3-dsoda.vercel.app/).
 ---
 
  🚀 Tech Stack
