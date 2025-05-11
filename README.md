@@ -1,25 +1,18 @@
-# Fizzi Website - Final code
+🥤 3D Soda 🥤
 
-This is the final code for the YouTube tutorial course where we build a 3D animated e-commerce landing page for the fictional soda brand, Fizzi!
+Hey, I built an immersive 3D web experience showcasing animated soda cans using Next.js 14, GSAP, Three.js, and Prismic as a headless CMS. Built for performance,
+interactivity, and storytelling through motion.
 
-For more information and to watch the course go to the [course documentation](https://dub.sh/fizzi).
+---
 
-## Skip the tutorial and launch the site
+ 🚀 Tech Stack
 
-If you don’t want to go through the tutorial, but want your own version of the website deployed on Prismic, follow these directions:
+- Next.js 14 – Full-stack React framework with App Router, server components, and optimized performance.
+- Three.js – WebGL-powered 3D rendering engine.
+- GSAP – High-performance animation library for smooth transitions and scroll-based effects.
+- Prismic – Headless CMS for content management and dynamic page building.
+- TypeScript – Type-safe development.
+- TailwindCSS – Utility-first CSS framework.
 
-1. Clone the code:
-    
-    ```tsx
-    npx @slicemachine/init@latest --starter course-fizzi-next
-    ```
-    
-2. Open the Prismic repository and select “English - United States”.
-3. Run the content set up script:
-    
-    ```tsx
-    npm run set-up-content
-    ```
-    
-4. Open the migration release and publish it. A URL will be printed on the screen.
-5. Set up the slice simulator URL: `http://localhost:3000/slice-simulator`
+Thanks for Visiting !!!!!
+SAI CHARAN SALUGARI
